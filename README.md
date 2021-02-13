@@ -1,4 +1,4 @@
-- This is my first code.
+- This is my first code. It was written with Laravel 8.
 - He has more strange thinks, but I was interesting to write it!
 - This is an app for keeping diary.
 - Date of creation: 13.02.2021
