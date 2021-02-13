@@ -1,0 +1,4 @@
+- This is my first code.
+- He has more strange thinks, but I was interesting to write it!
+- This is an app for keeping diary.
+- Date of creation: 13.02.2021
